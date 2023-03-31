@@ -1,7 +1,6 @@
 #include <lua.h>
 #include <lualib.h>
 #include <lauxlib.h>
-#include <openssl/evp.h>
 
 #define ENCODING_BASE64_METATABLE "encoding.base64"
 
